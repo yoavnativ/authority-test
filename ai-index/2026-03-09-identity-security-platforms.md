@@ -7,7 +7,11 @@ FreshNews Observatory tracks which brands AI assistants recommend across selecte
 
 | Rank | Brand | Mentions | AI Recommendation Rate |
 |---|---|---:|---:|
-| — | (No brands tracked) | — | — |
+| 1 | ping-identity | 16 | 100% |
+| 2 | cyberark | 16 | 100% |
+| 3 | okta | 15 | 93.75% |
+| 4 | microsoft-entra | 15 | 93.75% |
+| 5 | forgerock | 8 | 50% |
 
 AI Recommendation Rate = mentions / totalResponses.
 

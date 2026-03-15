@@ -7,7 +7,10 @@ FreshNews Observatory tracks which brands AI assistants recommend across selecte
 
 | Rank | Brand | Mentions | AI Recommendation Rate |
 |---|---|---:|---:|
-| — | (No brands tracked) | — | — |
+| 1 | avi-spl | 15 | 93.75% |
+| 2 | diversified | 15 | 93.75% |
+| 3 | ford-av | 11 | 68.75% |
+| 4 | ccs-presentation | 7 | 43.75% |
 
 AI Recommendation Rate = mentions / totalResponses.
 

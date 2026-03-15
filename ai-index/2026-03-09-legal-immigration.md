@@ -7,7 +7,10 @@ FreshNews Observatory tracks which brands AI assistants recommend across selecte
 
 | Rank | Brand | Mentions | AI Recommendation Rate |
 |---|---|---:|---:|
-| — | (No brands tracked) | — | — |
+| 1 | fragomen | 16 | 100% |
+| 2 | berry-appleman | 16 | 100% |
+| 3 | ogletree-deakins | 10 | 62.5% |
+| 4 | littler | 3 | 18.75% |
 
 AI Recommendation Rate = mentions / totalResponses.
 

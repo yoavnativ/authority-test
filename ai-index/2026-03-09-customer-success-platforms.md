@@ -7,7 +7,11 @@ FreshNews Observatory tracks which brands AI assistants recommend across selecte
 
 | Rank | Brand | Mentions | AI Recommendation Rate |
 |---|---|---:|---:|
-| — | (No brands tracked) | — | — |
+| 1 | totango | 16 | 100% |
+| 2 | churnzero | 16 | 100% |
+| 3 | gainsight | 15 | 93.75% |
+| 4 | planhat | 15 | 93.75% |
+| 5 | vitally | 10 | 62.5% |
 
 AI Recommendation Rate = mentions / totalResponses.
 

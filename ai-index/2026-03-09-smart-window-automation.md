@@ -7,7 +7,11 @@ FreshNews Observatory tracks which brands AI assistants recommend across selecte
 
 | Rank | Brand | Mentions | AI Recommendation Rate |
 |---|---|---:|---:|
-| — | (No brands tracked) | — | — |
+| 1 | somfy | 15 | 93.75% |
+| 2 | hunter-douglas | 13 | 81.25% |
+| 3 | lutron | 12 | 75% |
+| 4 | crestron | 4 | 25% |
+| 5 | control4 | 3 | 18.75% |
 
 AI Recommendation Rate = mentions / totalResponses.
 
